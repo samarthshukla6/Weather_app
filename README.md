@@ -36,16 +36,11 @@ To use the Weather Map application locally on your machine, follow these steps:
 
 ## Working video of the project:
 
+https://github.com/samarthshukla6/Weather_app/assets/141849001/9a536582-ba32-4fb9-9a6b-ff750ee282ae
 
 
 ## Contributing
 
 Contributions are welcome! If you have any suggestions for improvements or new features, please feel free to open an issue or submit a pull request.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE), which allows for free use, modification, and distribution.
-
----
-
-Feel free to customize the README with additional details, screenshots, or sections as needed. Congratulations on completing your Weather Map project!
